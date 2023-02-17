@@ -4,6 +4,5 @@
 
 ## Tools
 - sysmon
-- Event Log Explorer
-    https://eventlogxp.com/
+- Event Log Explorer -- https://eventlogxp.com/
 - 
