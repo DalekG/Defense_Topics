@@ -1,3 +1,4 @@
 # Training Links
 
-- https://www.paloaltonetworks.com/services/education
+- [Palo Alto](https://www.paloaltonetworks.com/services/education)
+- [Cisco Net Academy](https://www.netacad.com/)
