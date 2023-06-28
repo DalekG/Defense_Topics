@@ -10,3 +10,5 @@ Starting in PAN-OS 10.0, Device-ID allows policies to be created that follow a d
 Example 1: Allow Access Based on Device Identity
 
 ![deviceID1](https://github.com/DalekG/Defense_Topics/assets/87275713/c7d8ce56-8952-4a76-9aa1-59f727d2e340)
+
+Example 2: 
