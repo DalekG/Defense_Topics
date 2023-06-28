@@ -7,8 +7,14 @@ Starting in PAN-OS 10.0, Device-ID allows policies to be created that follow a d
 
 ## Example Policy Configurations
 
-Example 1: Allow Access Based on Device Identity
-
+Example 1: Allow Access Based on Device Identity\
 ![deviceID1](https://github.com/DalekG/Defense_Topics/assets/87275713/c7d8ce56-8952-4a76-9aa1-59f727d2e340)
 
-Example 2: 
+Example 2: Control the Attack Surface\
+![deviceID2](https://github.com/DalekG/Defense_Topics/assets/87275713/8d469338-e138-44df-8a2e-e23b563d54f9)
+
+Example 3: Decrypt Based on Device\
+![deviceID3](https://github.com/DalekG/Defense_Topics/assets/87275713/562fc9cf-c8f6-4ab2-b808-a6418502da6a)
+
+Example 4: Track a Device Across the Network\
+![deviceID4](https://github.com/DalekG/Defense_Topics/assets/87275713/003aa69b-75d6-491b-a368-1fc01b112e8f)
