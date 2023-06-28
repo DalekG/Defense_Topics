@@ -7,3 +7,4 @@ App-ID enables you to see the application on your network and learn how they wor
 - Allows for application and application function allow/deny
 - Can implement custom applications to be inspected in the same manne a others.
 
+By default, when you allow an application, it will nly be allwed on default porst used by tat application.
